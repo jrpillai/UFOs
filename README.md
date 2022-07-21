@@ -38,17 +38,17 @@ In summary, this website uses to Javascript, HTML, and Bootstrap to provide easy
 
 ### Drawbacks
 
-	* One drawback of the current project is that it requires users to enter filter criteria in the correct format. For example:
-		* For the state field, it must be entered as an abbreviation in lower case. 
-		* For the shape field, users must know the possible "shapes" and enter and spell them correctly.
+* One drawback of the current project is that it requires users to enter filter criteria in the correct format. For example:
+	* For the state field, it must be entered as an abbreviation in lower case. 
+	* For the shape field, users must know the possible "shapes" and enter and spell them correctly.
 	
-	* Another drawback as that it does not provide summary visualizations of the data. Rather, users must look at the observations row by row, making it
+* Another drawback as that it does not provide summary visualizations of the data. Rather, users must look at the observations row by row, making it
 	hard to draw any broad conclusions.
 
 ### Additional Reccomendations
 	
-	* Map the UFO data using Google API or Tableau. Both heatmaps and maps with markers for sightings, perhaps color coded by shape, would provide an 
+* Map the UFO data using Google API or Tableau. Both heatmaps and maps with markers for sightings, perhaps color coded by shape, would provide an 
 	interesting analysis. 
 
-	* Use Unsupervised Machine Learning to identify clusters in the UFO sightings, which might indicate a particular kind of UFO or alien species. 
+* Use Unsupervised Machine Learning to identify clusters in the UFO sightings, which might indicate a particular kind of UFO or alien species. 
 
